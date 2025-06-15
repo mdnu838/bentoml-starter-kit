@@ -1,0 +1,12 @@
+service: "service.py:svc"
+name: bentoml-starter-kit
+version: "1.0.0"
+labels:
+  owner: Nizam
+  project: gallery
+include:
+  - "*.py"
+python:
+  packages:
+    - scikit-learn
+    - pandas
