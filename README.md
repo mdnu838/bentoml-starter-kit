@@ -108,7 +108,6 @@ python test.py
 Make sure the server is running before executing this script.
 
 ---
----
 
 ## 🐳 Docker Deployment
 
