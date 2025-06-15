@@ -166,9 +166,3 @@ Expected response:
 
 MIT License
 
-```
-
----
-
-Would you like me to commit and push this to your GitHub repo directly (if connected), or generate a downloadable version?
-```
